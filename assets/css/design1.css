@@ -1,0 +1,200 @@
+#image {
+	height:300px;
+}
+
+.content {
+	background-image: radial-gradient(#CCC, #FFF), radial-gradient(#CCC, #FFF);
+	height:100px;
+	width: 912px;
+	margin-top: -170px;
+	margin-left:auto;
+	margin-right:auto;
+	background-size:	2px 100%;
+    background-position: 0 0, 100% 0;
+    background-repeat:	no-repeat;
+    /*box-shadow: 1px 2px 2px 1px#888888;
+    box-shadow:        inset  0  20px 8px -8px #000, 
+                        inset  0 50px 8px -5px #000;*/
+}
+
+
+.carousel {
+	width:860px;
+	height: 300px;
+	margin-top:-19px;
+	margin-right:auto;
+	margin-left: 56px;
+}
+
+.layer2 {
+	width:860px;
+	margin-top:120px;
+	margin-right:auto;
+	margin-left: 56px;
+}
+
+.layer3 {
+	width:860px;
+	margin-top:20px;
+	margin-right:auto;
+	margin-left: 56px;
+	padding-bottom: 50px;
+}
+
+#navigation {
+	margin:0;
+	padding:0;
+	background-color: blue;
+}
+
+#navigation ul {
+	margin:0;
+	padding:0;
+}
+
+#navigation li {
+	width:150;
+	margin:0;
+	padding:0;
+	list-style: none;
+	float:left;
+	position:relative;
+	background-color:333360;
+	color:#fff;
+	border:1px solid;
+}
+
+#navigation ul li a {
+	text-align:center;
+	font-family:helvetica;
+	font-size: 18px;
+	line-height: 50px;
+	/*font-weight: bold;*/
+	text-decoration: none;
+	height:50px;
+	width:150px;
+	display: block;
+	color:#fff;
+	
+
+}
+
+#navigation ul ul {
+	position:absolute;
+	visibility: hidden;
+
+}
+
+#navigation ul li:hover ul {
+	visibility: visible;
+}
+
+#navigation li:hover {
+	background-color:blue;
+}
+
+#picture {
+	width:239px;
+	height:300px;
+	margin-top:10px;
+	margin-left:43px;
+}
+
+#pictureingallery {
+	height:300px;
+	background-color: #fff;
+}
+
+#gallery{
+	/*margin-top:10px;*/
+	margin-left:-8px;
+	margin-bottom: 200px;
+}
+
+.aboutuscontent {
+	margin-top: 10px;
+}
+
+.souvenir {
+	margin-top: 10px;
+}
+
+.contactus {
+	margin-top: 10px;
+}
+
+.foods {
+	margin-top: 10px;
+}
+
+.showpictures {
+	height:400px;
+	margin-top:10px;
+}
+
+.reservationpicture {
+	margin-top:10px;
+}
+
+#smallimg {
+	margin-top:10px;
+	height:130px;
+}
+
+#table {
+	margin-top: 10px;
+}
+#table thead {
+	background-color: yellow;
+}
+
+#table thead th{
+	width:186px;
+}
+
+#table tbody tr td {
+	text-align: center;
+}
+
+p b {
+	color:blue;
+}
+#foodsimg {
+	text-align: center;
+}
+
+#foodsimg img{
+	border:3px solid;
+	border-radius: 5px;
+	height:300px;
+	margin-bottom: 20px;
+}
+
+.souvenir img{
+	height:100px;
+	width: 100px;
+}
+
+.souvenir .row {
+	margin-bottom: 10px;
+}
+
+.aav img {
+	border:3px solid;
+	border-radius: 5px;
+	height:300px;
+	margin-bottom: 20px;
+}
+
+.aav p{
+	color:blue;
+}
+
+.aav {
+	font-weight: bold;
+	font-size:16px;
+	text-align:center;
+}
+.productframe{
+	width: 650px;
+}
